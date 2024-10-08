@@ -69,8 +69,6 @@ a software that gives live easy to digest news and stock charts for people new t
 ### 10 Computer Science Student
 "I want to try getting into investments and probably even coding my own algorithm. There are a lot of news suppliers out there, but the moment I read "Egypt Plans Eurobond Sales After Cash Infusion Averts Crisis", I dropped my phone and I needed something that I can understand. I don't want to constantly use chatgpt to explain to me what's going on" 
 
-where [type of user], [some goal] and [some reason] are replaced with appropriate values. Keep them small and written in non-technical language that the type of user would use.
-
 ## Activity Diagrams
 
 ![UML Activity Diagram for CS Student User Story](images/UML_1.png)
